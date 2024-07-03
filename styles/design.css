@@ -5,3 +5,21 @@
     box-shadow: 10px 10px 10px;
     padding: 50px;
 }
+.second{
+    margin-top:20px;
+    background-color:rgb(30, 155, 62);
+    border: 10px solid blanchedalmond;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px black;
+    padding: 50px;
+    color: brown;
+}
+.list{
+    margin-top:20px;
+    background-color:rgb(30, 147, 155);
+    border: 10px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(148, 13, 141);
+    padding: 50px;
+    color: rgb(13, 11, 160);
+}
